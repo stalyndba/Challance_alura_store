@@ -36,16 +36,10 @@ folium
 ## 📁 Estructura del proyecto
 
 ``` tap
-├── AluraStoreLatam_en.ipynb #Código en inglés 
-├── AluraStoreLatam_es.ipynb #Código en español   
+├── stalyn_gonzalez_notebook.py  
 ├── Graphics  #Gráficos
 
 ```
-
-## 📂 Acceso al proyecto
-
-- [Notebook en español](./AluraStoreLatam_es.ipynb)
-- [Notebook en inglés](./AluraStoreLatam_en.ipynb)
 
 ## Autor
 **Stalyn Javier Gonzalez Cepeda**
