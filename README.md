@@ -47,6 +47,6 @@ folium
 - [Notebook en español](./AluraStoreLatam_es.ipynb)
 - [Notebook en inglés](./AluraStoreLatam_en.ipynb)
 
-## Autora
+## Autor
 **Stalyn Javier Gonzalez Cepeda**
 
